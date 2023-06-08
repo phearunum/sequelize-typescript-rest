@@ -1,0 +1,24 @@
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":null}
+{"label":"logger","level":"info","message":"Service Starting on port 3000"}
+{"label":"logger","level":"info","message":"Service Starting on port 3000"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":null}
+{"label":"logger","level":"error","message":"Cannot read properties of null (reading 'password')"}
+{"label":"logger","level":"info","message":"Service Starting on port 3000"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":null}
+{"label":"logger","level":"error","message":"Cannot read properties of null (reading 'password')"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ifg"}}
+{"label":"logger","level":"info","message":null}
+{"label":"logger","level":"error","message":"Cannot read properties of null (reading 'password')"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":null}
+{"label":"logger","level":"error","message":"Cannot read properties of null (reading 'password')"}
+{"label":"logger","level":"info","message":"Service Starting on port 3000"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":"Service Starting on port 3000"}
+{"label":"logger","level":"warn","message":{"password":"123","username":"tg"}}
+{"label":"logger","level":"info","message":{"createdAt":"2023-06-08T09:19:34.000Z","email":"main.com","fname":"ig","id":1,"lname":"tg","password":"$2b$10$UoDR3MgM9GagmqeaSiQM/exhMATFX23WLyLaBYNTFxKqZrFaOvE4G","phone":"85840204","role_id":1,"sex":"m","status":1,"token":"79erbvhuiv78er nerhiuer","updatedAt":"2023-06-08T10:09:19.000Z","username":"tg"}}
+{"label":"logger","level":"warn","message":{"password":"123","username":"ig"}}
+{"label":"logger","level":"info","message":{"createdAt":"2023-06-08T11:59:43.000Z","email":"main.com","fname":"ig","id":2,"lname":"tg","password":"$2b$10$mwmqsbjaBNMe7A/HHOlwweHUaG38XBkmSDPQ/XwgObDTHhY2.Oe4.","phone":"85840204","role_id":1,"sex":"m","status":1,"token":"79erbvhuiv78er nerhiuer","updatedAt":"2023-06-08T11:59:43.000Z","username":"ig"}}
